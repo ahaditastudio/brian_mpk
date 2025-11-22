@@ -1,0 +1,5 @@
+{
+  "name": "Panen Konten",
+  "description": "A web form to submit mass video generation requests to an n8n webhook. Users can upload a reference image, specify the desired number of videos, and provide a description to automatically generate content.",
+  "requestFramePermissions": []
+}
